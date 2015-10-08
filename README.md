@@ -1,3 +1,5 @@
+Algorithms
+==========
 
 ```python
 def algorithm_development(problem_specs):
