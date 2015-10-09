@@ -1,7 +1,4 @@
-Python Background
-=================
-
-## *arguments & ** keyword arguments
+## Python: *arguments & ** keyword arguments
 
 ```python
 >>> def F(*args, **kwargs):
