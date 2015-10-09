@@ -28,5 +28,6 @@ def test_bisect_sqrt():
     print bisect_sqrt(9)
     print bisect_sqrt(16)
     print bisect_sqrt(25)
+    print bisect_sqrt(48659865)
 
 test_bisect_sqrt()
