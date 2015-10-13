@@ -6,7 +6,7 @@ def isIn(s1, s2):
     """
     result = False
 
-    
+    k
     def match_string(str1, str2):
         result = len(str1.split(str2)) > 1
         return result
